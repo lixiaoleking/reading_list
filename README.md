@@ -2,9 +2,9 @@
 
 # reading_list
 
+## 数据可视化
 
-
-## Information Visualization and Visual Data Mining
+*Information Visualization and Visual Data Mining*
 
 可视化的优点。
 
@@ -12,13 +12,27 @@
 
  [Information_visualization_and_visual_data_mining.pdf](Information_visualization_and_visual_data_mining.pdf) 
 
+## word2vec
+
+ [word2vec.pdf](word2vec.pdf) 
+
+
+
+## attention机制
 
 
 
 
 
+## transformer
 
-word2vec glove elmo 
+*attention is all you need*
+
+ [attention is all you need.pdf](attention is all you need.pdf) 
+
+
+
+word2vec->glove->elmo 
 
 ## ELMO 
 
@@ -27,6 +41,9 @@ word2vec glove elmo
 
 
 ## BERT 
+
+ [bert.pdf](bert.pdf) 
+
 ELMO + GPT
 
 illustrated bert
